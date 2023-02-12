@@ -49,28 +49,6 @@ while game_is_on:
 
 screen.exitonclick()
 
-# segment_1 = Turtle("square")
-# segment_1.color("white")
-#
-# segment_2 = Turtle("square")
-# segment_2.color("white")
-# segment_2.goto(x=-20, y=0)
-#
-# segment_3 = Turtle("square")
-# segment_3.color("white")
-# segment_3.goto(x=-40, y=0)
-
-# x_positions = [20, 40, 60]
-# all_turtles = []
-#
-#
-# for turtle_index in range(3):
-#     new_turtle = Turtle(shape="square")
-#     new_turtle.penup()
-#     new_turtle.color("white")
-#     new_turtle.goto(x=x_positions[turtle_index], y=0)
-#     all_turtles.append(new_turtle)
-
 
 
 
